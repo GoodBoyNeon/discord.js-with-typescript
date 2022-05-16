@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // The code is going to be compiled to the latest flavor of js
+    "module": "CommonJS", // So we can use import/exports
+    "rootDir": "./src", // The root folder
+    "outDir": "./build", // The folder where compiled code is gonna be
+    "strict": true, // To get the most out of typescript, we can using this seting
+    "esModuleInterop": true, // You can read about it here https://www.typescriptlang.org/tsconfig#esModuleInterop
+    "skipLibCheck": true, // It disables compiling for *.d.ts files
+    "forceConsistentCasingInFileNames": true, // Pretty self-explainatory
+    "resolveJsonModule": true // Makes so we can use .json files
+  }
+}
