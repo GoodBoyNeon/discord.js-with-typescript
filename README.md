@@ -9,7 +9,7 @@ Want that strong-types and intellisense all over your Discord.js code? Then this
 You can get started by cloning the repository using the following command:
 
 ```
-git clone https://github.com/GoodBoyNeon/passwordGenerator.git
+git clone https://github.com/GoodBoyNeon/discord.js-with-typescript.git
 ```
 
 Then, you can install the dependencies using the following command:
